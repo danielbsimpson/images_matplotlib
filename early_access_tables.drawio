@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="l_XYnYV6HL5vfNDGXQLe">
-    <mxGraphModel dx="1020" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2050" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,36 @@
         </mxCell>
         <mxCell id="7dqoG8tsZYuh5bFWlIZ9-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="90" height="47.25" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="90" as="sourcePoint" />
+            <mxPoint x="580" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="119.5" as="sourcePoint" />
+            <mxPoint x="580" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="148" as="sourcePoint" />
+            <mxPoint x="580" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-25" value="RPA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-26" value="Hybris" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="145" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="184.66" as="sourcePoint" />
+            <mxPoint x="40" y="184.66" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
