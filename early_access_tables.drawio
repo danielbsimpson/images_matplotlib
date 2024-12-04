@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="l_XYnYV6HL5vfNDGXQLe">
-    <mxGraphModel>
+    <mxGraphModel dx="1020" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="58.4" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-4" value="Temp Daily Table" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-6" value="Cumulative Weekly Table" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="230" as="sourcePoint" />
+            <mxPoint x="229" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="sourcePoint" />
+            <mxPoint x="190" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="210" as="sourcePoint" />
+            <mxPoint x="190" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" vertex="1" parent="1">
+          <mxGeometry x="330" y="97.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.8" y="119.75999999999999" as="sourcePoint" />
+            <mxPoint x="320.8" y="119.75999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="119.8" as="sourcePoint" />
+            <mxPoint x="410" y="119.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-16" value="Overwrite table if human intervention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-17" value="Push top scoring items" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-18" value="Push Temp Table to Cumulative at 6pm daily" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-20" value="Overwrite yesterday&#39;s items" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="148" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7dqoG8tsZYuh5bFWlIZ9-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="90" height="47.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
