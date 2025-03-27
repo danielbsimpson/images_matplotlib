@@ -107,7 +107,7 @@
           <mxGeometry x="279.19" y="280" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OY8RV9DwScPBDpuIy3qS-35" value="Databricks executes a get request to retrieve all web ready products" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="140" height="48" as="geometry" />
+          <mxGeometry x="289.19" y="120" width="140" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
