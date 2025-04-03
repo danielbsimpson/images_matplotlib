@@ -88,6 +88,12 @@
         <mxCell id="m5yTfTwGPNgab40GCjPw-27" value="Databricks executes a get request to retrieve all web ready products" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="150" width="140" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="m5yTfTwGPNgab40GCjPw-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.19" y="240.5" as="sourcePoint" />
+            <mxPoint x="425.19" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
